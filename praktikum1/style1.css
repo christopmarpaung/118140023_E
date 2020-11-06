@@ -1,0 +1,37 @@
+body{
+	background-color: ;
+}
+
+.header{
+	background-color: #dfd9c3;
+	padding: 2px 10px;
+	width: 784px;
+	height: 200px;
+}
+
+.kolom{
+	height: auto;
+	width: 784px;
+	display: flex;
+}
+
+.kolom1{
+	background-color: #ffff01;
+	float: left;
+	height: auto;
+	width: 200px;
+}
+
+.kolom2{
+	background-color: #d99896;
+	float: left;
+	height: auto;
+	width: 584px;
+}
+
+.footer{
+	background-color: #9370DB;
+	padding: 10px;
+	width: 784px;
+	height: 100px;
+}
