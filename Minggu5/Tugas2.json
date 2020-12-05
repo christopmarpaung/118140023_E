@@ -1,0 +1,30 @@
+{
+    "datadiri": {
+        "nama": {
+            "awal": "Christop",
+            "akhir": "Marpaung"
+        },
+        "status": "Mahasiswa",
+        "jeniskelamin": "Laki-laki",
+        "alamat": {
+         
+            "Jalan"    : "Jl.Hasan 5",
+            "Kecamatan": "Way Huwi",
+            "Kabupaten": "Lampung Selatan",
+            "Provinsi" : "Lampung"
+        },
+        "orangtua": {
+            "bapak": "Rudolf",
+            "ibu"  : "Pasuria"
+        },
+        "sosialmedia"  : {
+            "instagram"   : "christop_marpaung17",
+            "No_whatsapp" : "08227553618"
+        },
+        "hobi": {
+            "hobi1": "Membaca",
+            "hobi2": "Basket",
+            "hobi3": "Renang"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+<?xml version=1?>
+<dataDiri>
+    <nama>
+        <awal>Christop</awal>
+        <akhir>Marpaung</awal>
+    </nama>
+
+    <status>Mahasiswa</status>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <jalan>Jl.Hasan5</jalan>
+        <kecamatan>Way Huwi</kecamatan>
+        <kabupaten>Lampung Selatan</kabupaten>
+        <Provinsi>Lampung</Provinsi>
+    </alamat>
+
+    <orangTua>
+        <bapak>Rudolf</bapak>
+        <ibu>Pasuria</ibu>
+    </orangTua>
+    
+    <socialMedia>
+        <instagram>christop_marpaung17</instagram>
+        <No_whatsapp>08227553618</No_whatsapp>
+    </socialMedia>
+
+    <hobi>
+        <hobi1>Membaca</hobi1>
+        <hobi2>Basket</hobi2>
+        <hobi3>Renang</hobi3>
+    </hobi>
+</dataDiri>
